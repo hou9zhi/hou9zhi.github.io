@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>test</title>
+  <title>志成的大house</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhicheng</name>
     
   </author>
   
