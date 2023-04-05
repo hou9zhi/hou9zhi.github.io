@@ -1,3 +1,4 @@
-http://example.com/2022/08/22/diray/
+http://example.com/2023/04/25/diray/
+http://example.com/2023/04/05/newpapername/
 http://example.com/2022/08/22/hello-world/
 http://example.com/
